@@ -9,7 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### API Details:
 
 URL: <http://www.omdbapi.com/?type=movie&s=toy+story>
+
 **APIKey**: c37575f4
+
 Full details of the API can be found here: <http://www.omdbapi.com/>
 
 Starter Project: <https://github.com/curve-technology/front-end-developer-test.git>
