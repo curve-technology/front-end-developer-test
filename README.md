@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Task
 
-1. Using React please create an application that displays movie posters in a grid
+1. Using React, create an application that displays movie posters in a grid
 2. The posters should be clickable and take the user to a new page displaying the movie title/image/year of release
-3. The app should allow a user to search & filter the results by full name
+3. The app should allow a user to search & filter the results by title
 
 ### API Details:
 
