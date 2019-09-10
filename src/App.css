@@ -1,1 +1,6 @@
 @import "../node_modules/milligram/dist/milligram.min.css";
+
+h1 {
+  text-align: center;
+  padding: 50px;
+}

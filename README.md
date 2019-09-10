@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. The posters should be clickable and take the user to a new page displaying the movie title/image/year of release
 3. The app should allow a user to search & filter the results by title
 
+## Bonus points for:
+
+1. Storing data in a redux store
+2. Writing unit tests
+
 ### API Details:
 
 URL: <http://www.omdbapi.com/?type=movie&s=toy+story>
